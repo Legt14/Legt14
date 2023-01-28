@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my future<br>🌱 I’m currently learning<br>⚡ I'm a movie fan
+🔭 I’m currently working on my future<br>🌱 I’m currently learning<br>⚡ I'm a movie fan<br>🌐 Portfolio: https://legt14.github.io/portfolio.github.io/home
 
 
 ## 🌐 Socials:
